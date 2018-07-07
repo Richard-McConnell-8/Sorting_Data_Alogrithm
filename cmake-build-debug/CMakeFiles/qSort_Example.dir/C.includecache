@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/richardmcconnell/Documents/Software/Projects/C-Lion Projects/qSort_Example/main.c
+stdio.h
+-
+stdlib.h
+-
+
